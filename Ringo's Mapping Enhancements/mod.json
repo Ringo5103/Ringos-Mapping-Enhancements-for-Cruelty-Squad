@@ -1,7 +1,0 @@
-{
-    "name": "Ringo's Mapping Enhancements",
-    "author": "Ringo5103",
-    "version": "0.1.0",
-    "description": "Small additions to add more versatility and options to custom maps.",
-    "init": "res://MOD_CONTENT/Mapping Enhancements/add_to_fgd.gd"
-}
